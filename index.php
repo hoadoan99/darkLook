@@ -1181,8 +1181,6 @@
     logged_in_greeting='Xin chào, tôi có thể hổ trợ gì cho bạn không?'   
     logged_out_greeting='Xin chào, tôi có thể hổ trợ gì cho bạn không?'></div>
 
-    <div class="zalo-chat-widget" data-oaid="579745863508352884" data-welcome-message="Dark Look rất vui khi được hỗ trợ bạn!" data-autopopup="0" data-width="350" data-height="420"></div>
 
-<script src="https://sp.zalo.me/plugins/sdk.js"></script>
 </body>
 </html>
