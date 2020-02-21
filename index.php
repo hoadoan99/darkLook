@@ -18,11 +18,11 @@
   <link rel="shortcut icon" href="images/favicon.png">
   <link rel="apple-touch-icon" href="images/apple-touch-icon.html">
 
-  <style>
+<!--   <style>
     .zalo-chat-widget{
       bottom: 105px !important;
     }
-  </style>
+  </style> -->
 </head>
 
 <body>
@@ -1180,7 +1180,5 @@
    <div class='fb-customerchat'     page_id='102363921366794'     theme_color='#44bec7'    
     logged_in_greeting='Xin chào, tôi có thể hổ trợ gì cho bạn không?'   
     logged_out_greeting='Xin chào, tôi có thể hổ trợ gì cho bạn không?'></div>
-
-
 </body>
 </html>
