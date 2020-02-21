@@ -2375,7 +2375,7 @@ a.thumbnail:hover, a.thumbnail:focus, a.thumbnail.active {
     height: 40px;
     padding: 6px 12px;
     position: fixed;
-    right: 20px;
+    left: 20px;
     width: 40px;
     z-index: 99;
 }

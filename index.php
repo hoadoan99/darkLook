@@ -17,6 +17,12 @@
   <link rel="stylesheet" type="text/css" href="css/owl.carousel.css">
   <link rel="shortcut icon" href="images/favicon.png">
   <link rel="apple-touch-icon" href="images/apple-touch-icon.html">
+
+  <style>
+    .zalo-chat-widget{
+      bottom: 105px !important;
+    }
+  </style>
 </head>
 
 <body>
@@ -1160,6 +1166,7 @@
   <script src="js/jquery.magnific-popup.js"></script>
   <script src="js/jquery.firstVisitPopup.js"></script>
   <script src="js/custom.js"></script>
+    
 
   <div id='fb-root'></div>
     <script>(function(d, s, id) {     
@@ -1173,5 +1180,9 @@
    <div class='fb-customerchat'     page_id='102363921366794'     theme_color='#44bec7'    
     logged_in_greeting='Xin chào, tôi có thể hổ trợ gì cho bạn không?'   
     logged_out_greeting='Xin chào, tôi có thể hổ trợ gì cho bạn không?'></div>
+
+    <div class="zalo-chat-widget" data-oaid="579745863508352884" data-welcome-message="Dark Look rất vui khi được hỗ trợ bạn!" data-autopopup="0" data-width="350" data-height="420"></div>
+
+<script src="https://sp.zalo.me/plugins/sdk.js"></script>
 </body>
 </html>
